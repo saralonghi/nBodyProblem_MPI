@@ -1,7 +1,8 @@
 # nBodyProblem_MPI
 
+![img](./copertina.png)
 
-N-Body Problem – Description and Implemented Solution
+### N-Body Problem – Description and Implemented Solution
 The N-body problem involves simulating the motion of N bodies that interact with each other through forces (typically gravitational). This is a classic problem in physics and computational science, with complexity increasing rapidly as the number of bodies grows.
 
 In this project, a simplified version of the problem was implemented by restricting the simulation to two dimensions (x and y) instead of three.
