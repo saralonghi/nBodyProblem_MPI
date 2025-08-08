@@ -1,0 +1,97 @@
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.271217200 seconds
+
+BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.148646200 seconds
+
+NON BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.025435900 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.167778200 seconds
+
+NON BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 1.839904600 seconds
+
+BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 1.849025500 seconds
+
+BLOCKING: processors 6 ,bodies 10000, iterations 2 ---> time 1.637414600 seconds
+
+BLOCKING: processors 8 ,bodies 10000, iterations 2 ---> time 1.505177200 seconds
+
+NON BLOCKING: processors 8 ,bodies 10000, iterations 2 ---> time 1.476086600 seconds
+
+NON BLOCKING: processors 6 ,bodies 10000, iterations 2 ---> time 1.618087800 seconds
+
+NON BLOCKING: processors 8 ,bodies 100, iterations 2 ---> time 0.004000400 seconds
+
+BLOCKING: processors 8 ,bodies 100, iterations 2 ---> time 0.114343300 seconds
+
+NON BLOCKING: processors 8 ,bodies 5, iterations 2 ---> time 0.001193600 seconds
+
+BLOCKING: processors 8 ,bodies 5, iterations 2 ---> time 0.001250500 seconds
+
+NON BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.938491300 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.650565700 seconds
+
+NON BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.125836400 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.611338600 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.653334800 seconds
+
+NON BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.840287200 seconds
+
+NON BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.860285200 seconds
+
+NON BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.804118400 seconds
+
+NON BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.886969200 seconds
+
+NON BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.872374300 seconds
+
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.783501000 seconds
+
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.826485800 seconds
+
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.846098400 seconds
+
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 7.019236000 seconds
+
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.974372600 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.729341800 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.733981600 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.769784800 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.657532900 seconds
+
+NON BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.699587700 seconds
+
+BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.757173800 seconds
+
+BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.708427300 seconds
+
+BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.807562000 seconds
+
+BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.724266900 seconds
+
+BLOCKING: processors 2 ,bodies 10000, iterations 2 ---> time 3.634037700 seconds
+
+NON BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.461718400 seconds
+
+NON BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.294526900 seconds
+
+NON BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.446475500 seconds
+
+NON BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.408524600 seconds
+
+NON BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.491124100 seconds
+
+BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.357872500 seconds
+
+BLOCKING: processors 4 ,bodies 10000, iterations 2 ---> time 2.669967300 seconds
+
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.920699100 seconds
+
+BLOCKING: processors 1 ,bodies 10000, iterations 2 ---> time 6.855495900 seconds
+NON BLOCKING: processors 3 ,bodies 1000, iterations 4 ---> time 0.066338900 seconds
+
