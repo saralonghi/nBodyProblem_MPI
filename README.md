@@ -17,3 +17,7 @@ To compute the interactions and update the positions/velocities of the bodies ov
 
 These two versions allow for a comparison of the performance and behavior of blocking vs non-blocking communication approaches in the context of a computationally intensive problem.
 
+___
+#### Details on how to run the projects can be found in the [wiki section](https://github.com/saralonghi/nBodyProblem_MPI/wiki/How-to-run-the-programs) 
+___
+
