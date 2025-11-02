@@ -285,7 +285,7 @@ The variable **acc** is the accelleration,**s** is the speed, **d** is the displ
     void  twoBodiesForce(Body bodyA, Body bodyB, double *sum_dx, double *sum_dy, double *sum_dvx, double *sum_dvy){
 	    double sx = bodyB.x - bodyA.x;
         double sy = bodyB.y - bodyA.y;
-        double rAB = sqrt((sx * sx) + (sy * sy)+ SOFTENING);
+        double rAB = sqrt((sx * sx) + (sy * sy));
 
         double acc =  (bodyB.m)*G/(rAB*rAB);   		
         double s = sqrt(bodyA.vx * bodyA.vx + bodyA.vy * bodyA.vy)
