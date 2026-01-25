@@ -106,8 +106,6 @@ int main(int argc, char **argv) {
       
     buildBodiesPerProcessAndDispls(numberOfBodies, numberOfProc, bodiesPerProcess, displs);
 
-   // MPI_Bcast(bodiesPerProcess, numberOfProc, MPI_INT, 0, MPI_COMM_WORLD);
-   // MPI_Bcast(displs, numberOfProc, MPI_INT, 0, MPI_COMM_WORLD);
     Body *localBodies = (Body*) malloc(bodiesPerProcess[rank] * sizeof(Body));
     
     MPI_Barrier(MPI_COMM_WORLD);
@@ -126,7 +124,6 @@ int main(int argc, char **argv) {
         memset(sum_dy, 0, bodiesPerProcess[rank] * sizeof(double));
         memset(sum_dvx, 0, bodiesPerProcess[rank] * sizeof(double));
         memset(sum_dvy, 0, bodiesPerProcess[rank] * sizeof(double));
-        int max = bodiesPerProcess[0];
         
         Body *buffer[2];
         buffer[0] = malloc(max * sizeof(Body));
